@@ -1,4 +1,4 @@
-# IndinFreshCart
+# IndianFreshCart
 It is interface between Farmer and customer Where a farmer can sell his products at better price
 
 o Steps for producing high yield that are specific for a farmer based on the local, regional terrain , weather scenario  , rather than generic guidance
